@@ -32,7 +32,7 @@
 
 ## 🚀 Projects
 
-### [Portfolio Website](https://kevin-makhuvele.github.io/My-Portfolio/)
+### [Portfolio Website](https://my-portfolio-coral-six-17.vercel.app/)
 Responsive personal portfolio built with HTML, CSS, and JavaScript showcasing front-end projects.  
 
 ### Landing Page Project
