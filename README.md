@@ -10,7 +10,7 @@
 ## 🪄 About Me
 - 🎨 Crafting responsive, interactive websites with **HTML • CSS • JavaScript**  
 - 🖌️ Turning designs into seamless **UI/UX experiences**  
-- 🔧 Front-end WordPress customization (themes, Elementor, WPBakery)  
+- 🔧 Front-end WordPress customisation (themes, Elementor, WPBakery)  
 - 🛡️ *Microsoft Certified* in **Security, Compliance & Identity**  
 - ☕ Coffee-powered bug fixer (debugging = detective work 🕵️)  
 
