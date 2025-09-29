@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I’m Kevin ✨</h1>  
-<h3 align="center">💻 Junior WordPress Developer | Web Crafter | Dreaming in Code 💭</h3>  
+<h3 align="center">💻 Front-End Developer | Web Crafter | Dreaming in Code 💭</h3>  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Person coding gif"/>
@@ -8,26 +8,47 @@
 ---
 
 ## 🪄 About Me
-- 🎨 WordPress wizard 🪄 (Elementor, WPBakery, Plugins & Themes)  
-- 💻 Fluent in **HTML • CSS • JavaScript**  
-- 🔧 Tinkering with **PHP & MySQL**  
+- 🎨 Crafting responsive, interactive websites with **HTML • CSS • JavaScript**  
+- 🖌️ Turning designs into seamless **UI/UX experiences**  
+- 🔧 Front-end WordPress customization (themes, Elementor, WPBakery)  
 - 🛡️ *Microsoft Certified* in **Security, Compliance & Identity**  
 - ☕ Coffee-powered bug fixer (debugging = detective work 🕵️)  
 
 ---
+
+## 💻 Skills
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="55" height="55"/>
+
 </p>
 
 ---
 
+## 🚀 Projects
+
+### [Portfolio Website](https://kevin-makhuvele.github.io/My-Portfolio/)
+Responsive personal portfolio built with HTML, CSS, and JavaScript showcasing front-end projects.  
+
+### Landing Page Project
+Interactive, fully responsive landing page with smooth scrolling and animations.  
+
+### UI/UX Website Redesign
+Redesigned an existing website to improve layout, usability, and performance.  
+
+---
+
+## 📫 Contact Me
+- Email: pfumey.mk22@gmail.com  
+- LinkedIn: [linkedin.com/in/kevin-makhuvele-552337358](https://www.linkedin.com/in/kevin-makhuvele-552337358)  
+- Portfolio: [kevin-makhuvele.github.io/My-Portfolio](https://kevin-makhuvele.github.io/My-Portfolio/)
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning creative designs into fully functional websites and exploring new front-end technologies every day!
