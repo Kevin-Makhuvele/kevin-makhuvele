@@ -46,7 +46,7 @@ Redesigned an existing website to improve layout, usability, and performance.
 ## 📫 Contact Me
 - Email: pfumey.mk22@gmail.com  
 - LinkedIn: [linkedin.com/in/kevin-makhuvele-552337358](https://www.linkedin.com/in/kevin-makhuvele-552337358)  
-- Portfolio: [kevin-makhuvele.github.io/My-Portfolio](https://kevin-makhuvele.github.io/My-Portfolio/)
+- Portfolio: [https://my-portfolio-coral-six-17.vercel.app/](https://my-portfolio-coral-six-17.vercel.app/)
 
 ---
 
